@@ -1,0 +1,5 @@
+_site
+.DS_Store
+.Rhistory
+.ipynb_checkpoints
+.Rproj.user
